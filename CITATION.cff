@@ -11,8 +11,8 @@ authors:
   - given-names: Benedikt Maria
     family-names: Beckermann
     orcid: 'https://orcid.org/0009-0008-3920-6109'
-    email: hello@benedikt.click
-    affiliation: Schloss Dagstuhl Leibniz-Zentrum für Informatik
+    email: benedikt.beckermann@dagstuhl.de
+    affiliation: Schloss Dagstuhl - Leibniz Center for Informatics
 repository-code: 'https://github.com/unknowndataproject/zenodo-dblp-authors'
 abstract: >-
   This investigation into Zenodo Dataset Records loads
