@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Zenodo Dataset Records From Verified DBLP Author
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Benedikt Maria
+    family-names: Beckermann
+    orcid: 'https://orcid.org/0009-0008-3920-6109'
+    email: benedikt.beckermann@dagstuhl.de
+    affiliation: Schloss Dagstuhl - Leibniz Center for Informatics
+repository-code: 'https://github.com/unknowndataproject/zenodo-dblp-authors'
+abstract: >-
+  This investigation into Zenodo Dataset Records loads
+  10_000 Records from Zenodo and checks if their creators
+  are present in dblp.
+license: CC0-1.0
+commit: 02f2bf7ad13c957080f8c2f433d9f195c319d70e
+date-released: '2023-04-11'
